@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT-Fiqri", "JWT-Fiqri\JWT-Fiqri.csproj", "{33953458-0F20-4864-B022-1A9515EC78A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33953458-0F20-4864-B022-1A9515EC78A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33953458-0F20-4864-B022-1A9515EC78A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33953458-0F20-4864-B022-1A9515EC78A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33953458-0F20-4864-B022-1A9515EC78A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEEBF6DC-CFED-427D-8D40-64BFD56AAA43}
+	EndGlobalSection
+EndGlobal
